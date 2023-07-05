@@ -1,2 +1,1 @@
-# Capestone-Project
- 
+# Getting Started with SuperApp
